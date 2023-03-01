@@ -2,3 +2,25 @@ html {
   height: 100%;
   width: 100%;
 }
+
+
+.container{
+    border-radius: 10px;
+    background-color:rgb(4,170,109) ;
+    padding: 20px;
+    width: 200px;
+    height: 275px;
+    justify-content: center;
+    
+}
+
+
+.button{
+    background-color: rgb(4,170,109);
+    border: none;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    
+}
+
